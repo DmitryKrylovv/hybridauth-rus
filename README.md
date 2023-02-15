@@ -1,7 +1,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/hybridauth/hybridauth.svg)](https://github.com/hybridauth/hybridauth/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/hybridauth/hybridauth.svg)](https://github.com/hybridauth/hybridauth/issues)
 
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://supportukrainenow.org/)
 
 ## [Hybridauth](https://hybridauth.github.io/) 3.8
 
